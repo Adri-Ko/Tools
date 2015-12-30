@@ -4,3 +4,4 @@
 - Color Picker
 - Emmet
 - File Icons
+- Angularjs
