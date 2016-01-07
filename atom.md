@@ -6,3 +6,7 @@
 - File Icons
 - Angularjs
 - Livestyle Atom
+- Todo Show
+- Uglify
+- jslint
+- csslint
